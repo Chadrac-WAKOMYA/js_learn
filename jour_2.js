@@ -1,1 +1,4 @@
-console.log("hello, word !")
+function fonct(nbre){
+    return null;
+}
+
