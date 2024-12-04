@@ -27,7 +27,7 @@ console.log(
 );
 
 
-// Opérations avec les variables
+// 2. Opérations avec les variables
 let a = 4, b = 6;
 
 // Addition
@@ -43,10 +43,19 @@ console.log(a * b);
 console.log(a/b);
 
 
-// Fonction qui calcul
+// 3. Fonction qui calcul
 function square(n) {
     return n*n;
 }
 // Test fonction
 console.log(square(4));
+
+// 4. Fonction de vérification 
+function isEven(n) {
+    if(n == 0)
+        return "n est null";
+    return n % 2 == 0;
+}
+// Test fonction test verification
+console.log(isEven(0));
 
