@@ -27,4 +27,19 @@ console.log(
 );
 
 
+// Opérations avec les variables
+let a = 4, b = 6;
+
+// Addition
+console.log(a + b);
+
+//Soustraction
+console.log(a - b);
+
+//Multiplication 
+console.log(a * b);
+
+// Division
+console.log(a/b);
+
 
