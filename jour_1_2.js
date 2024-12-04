@@ -43,3 +43,10 @@ console.log(a * b);
 console.log(a/b);
 
 
+// Fonction qui calcul
+function square(n) {
+    return n*n;
+}
+// Test fonction
+console.log(square(4));
+
